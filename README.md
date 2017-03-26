@@ -2,7 +2,7 @@
 From my Udacity class on Deep Learning
 
 ## Reading/Information links
-  * https://www.manning.com/books/grokking-deep-learning
+  * https://www.manning.com/books/grokking-deep-learning  coupon  traskud17
   * http://neuralnetworksanddeeplearning.com/
   * http://www.deeplearningbook.org/
   
