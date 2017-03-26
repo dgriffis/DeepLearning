@@ -14,5 +14,5 @@ As an example of the kind of things you'll be building with deep learning models
 * http://selfdrivingcars.mit.edu/deeptrafficjs/
 See how fast you can go!
 
-*https://github.com/yenchenlin/DeepLearningFlappyBird
+* https://github.com/yenchenlin/DeepLearningFlappyBird
 Use me some tensorflow
