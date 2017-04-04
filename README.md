@@ -17,4 +17,5 @@ See how fast you can go!
 * https://github.com/yenchenlin/DeepLearningFlappyBird
 Use me some tensorflow
 
-
+* https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
+Backpropogation
