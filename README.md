@@ -19,3 +19,6 @@ Use me some tensorflow
 
 * https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 Backpropogation
+
+* https://www.youtube.com/watch?v=59Hbtz7XgjM
+Stanford - backpropogation
