@@ -22,3 +22,6 @@ Backpropogation
 
 * https://www.youtube.com/watch?v=59Hbtz7XgjM
 Stanford - backpropogation
+
+* http://playground.tensorflow.org/
+Neural Network Playground
